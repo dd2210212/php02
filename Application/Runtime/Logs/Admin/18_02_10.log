@@ -1,0 +1,1513 @@
+[ 2018-02-10T19:18:09+08:00 ] 127.0.0.1 /index.php/admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001648s ]
+
+[ 2018-02-10T19:18:10+08:00 ] 127.0.0.1 /index.php/admin/Admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2018-02-10T19:18:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2018-02-10T19:18:15+08:00 ] 127.0.0.1 /index.php/Admin/Admin/checkCode.html?code=n4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000620s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000843s ]
+
+[ 2018-02-10T19:18:16+08:00 ] 127.0.0.1 /index.php/admin/Admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2018-02-10T19:18:16+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2018-02-10T19:18:16+08:00 ] 127.0.0.1 /index.php/Admin/Index/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2018-02-10T19:18:16+08:00 ] 127.0.0.1 /index.php/Admin/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001397s ]
+
+[ 2018-02-10T19:18:16+08:00 ] 127.0.0.1 /index.php/Admin/Index/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2018-02-10T19:18:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2018-02-10T19:18:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2018-02-10T19:18:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+
+[ 2018-02-10T19:18:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+
+[ 2018-02-10T19:18:27+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2018-02-10T19:19:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2018-02-10T19:19:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+
+[ 2018-02-10T19:19:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+
+[ 2018-02-10T19:25:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2018-02-10T19:26:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2018-02-10T19:26:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2018-02-10T19:26:25+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+
+[ 2018-02-10T19:26:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+
+[ 2018-02-10T19:26:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003387s ]
+
+[ 2018-02-10T19:26:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2018-02-10T19:26:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+
+[ 2018-02-10T19:26:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+
+[ 2018-02-10T19:26:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2018-02-10T19:27:11+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2018-02-10T19:27:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2018-02-10T19:52:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2018-02-10T19:52:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2018-02-10T19:52:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+
+[ 2018-02-10T19:52:55+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2018-02-10T19:52:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000900s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0329s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0548s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0239s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000817s ]
+
+[ 2018-02-10T19:53:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2018-02-10T19:53:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2018-02-10T19:53:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+
+[ 2018-02-10T19:53:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000905s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002406s ]
+
+[ 2018-02-10T19:53:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+
+[ 2018-02-10T19:53:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001132s ]
+
+[ 2018-02-10T19:53:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001099s ]
+
+[ 2018-02-10T19:53:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2018-02-10T19:53:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2018-02-10T19:53:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+
+[ 2018-02-10T19:53:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2018-02-10T19:54:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2018-02-10T19:54:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2018-02-10T19:54:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2018-02-10T19:54:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2018-02-10T19:54:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001063s ]
+
+[ 2018-02-10T19:54:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2018-02-10T19:54:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2018-02-10T19:54:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000980s ]
+
+[ 2018-02-10T19:56:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2018-02-10T19:56:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2018-02-10T19:56:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+
+[ 2018-02-10T19:56:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2018-02-10T19:56:23+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2018-02-10T19:56:23+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+
+[ 2018-02-10T19:56:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2018-02-10T19:56:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001224s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0110s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0086s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001598s ]
+
+[ 2018-02-10T19:56:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2018-02-10T19:56:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2018-02-10T19:56:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+
+[ 2018-02-10T19:58:27+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2018-02-10T19:58:27+08:00 ] 127.0.0.1 /index.php/Admin/Goods/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2018-02-10T19:58:27+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2018-02-10T19:58:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2018-02-10T19:58:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+
+[ 2018-02-10T19:58:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2018-02-10T19:58:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2018-02-10T19:58:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+
+[ 2018-02-10T19:58:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001045s ]
+
+[ 2018-02-10T19:58:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+
+[ 2018-02-10T19:59:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2018-02-10T19:59:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2018-02-10T19:59:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2018-02-10T19:59:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+
+[ 2018-02-10T19:59:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2018-02-10T19:59:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2018-02-10T19:59:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+
+[ 2018-02-10T19:59:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2018-02-10T19:59:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+
+[ 2018-02-10T19:59:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-02-10T19:59:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+
+[ 2018-02-10T19:59:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001273s ]
+
+[ 2018-02-10T19:59:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+
+[ 2018-02-10T19:59:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+
+[ 2018-02-10T19:59:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000514s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004993s ]
+
+[ 2018-02-10T19:59:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2018-02-10T19:59:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2018-02-10T19:59:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+
+[ 2018-02-10T19:59:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2018-02-10T19:59:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2018-02-10T19:59:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2018-02-10T19:59:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2018-02-10T19:59:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2018-02-10T19:59:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+
+[ 2018-02-10T20:00:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002074s ]
+
+[ 2018-02-10T20:00:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+
+[ 2018-02-10T20:00:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+
+[ 2018-02-10T20:00:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2018-02-10T20:00:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+
+[ 2018-02-10T20:00:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2018-02-10T20:00:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2018-02-10T20:00:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2018-02-10T20:00:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2018-02-10T20:02:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2018-02-10T20:02:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2018-02-10T20:02:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2018-02-10T20:02:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2018-02-10T20:02:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001393s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0143s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0086s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001726s ]
+
+[ 2018-02-10T20:02:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2018-02-10T20:02:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2018-02-10T20:02:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+
+[ 2018-02-10T20:02:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2018-02-10T20:02:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2018-02-10T20:02:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2018-02-10T20:02:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2018-02-10T20:02:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+
+[ 2018-02-10T20:02:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+
+[ 2018-02-10T20:03:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+
+[ 2018-02-10T20:03:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2018-02-10T20:03:16+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001283s ]
+
+[ 2018-02-10T20:03:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2018-02-10T20:03:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2018-02-10T20:03:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001380s ]
+
+[ 2018-02-10T20:03:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+
+[ 2018-02-10T20:03:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+
+[ 2018-02-10T20:05:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2018-02-10T20:05:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2018-02-10T20:08:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2018-02-10T20:08:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+
+[ 2018-02-10T20:08:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2018-02-10T20:08:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2018-02-10T20:08:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2018-02-10T20:08:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+
+[ 2018-02-10T20:08:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+
+[ 2018-02-10T20:08:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2018-02-10T20:08:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+
+[ 2018-02-10T20:08:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+
+[ 2018-02-10T20:10:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2018-02-10T20:10:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001194s ]
+
+[ 2018-02-10T20:10:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+
+[ 2018-02-10T20:12:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+
+[ 2018-02-10T20:12:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2018-02-10T20:12:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001096s ]
+
+[ 2018-02-10T20:12:11+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000958s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0122s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0090s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002727s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003326s ]
+
+[ 2018-02-10T20:12:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+
+[ 2018-02-10T20:12:16+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2018-02-10T20:12:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2018-02-10T20:12:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2018-02-10T20:12:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2018-02-10T20:13:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/23.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2018-02-10T20:13:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001621s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0126s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 23 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0151s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '23'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001984s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002329s ]
+
+[ 2018-02-10T20:13:06+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/23.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2018-02-10T20:13:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2018-02-10T20:13:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/23.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+
+[ 2018-02-10T20:13:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001187s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0152s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 23 LIMIT 1   [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0223s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '23'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000978s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001154s ]
+
+[ 2018-02-10T20:13:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/23.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2018-02-10T20:13:23+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001016s ]
+
+[ 2018-02-10T20:14:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+
+[ 2018-02-10T20:14:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+
+[ 2018-02-10T20:14:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2018-02-10T20:14:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+
+[ 2018-02-10T20:14:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0242s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0183s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001849s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002201s ]
+
+[ 2018-02-10T20:14:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2018-02-10T20:14:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+
+[ 2018-02-10T20:14:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2018-02-10T20:14:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000784s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0184s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0151s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0143s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001692s ]
+
+[ 2018-02-10T20:14:52+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2018-02-10T20:14:55+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2018-02-10T20:14:55+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001460s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0131s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0138s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0202s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000823s ]
+
+[ 2018-02-10T20:14:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2018-02-10T20:16:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001252s ]
+
+[ 2018-02-10T20:16:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+
+[ 2018-02-10T20:16:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0155s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0155s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0268s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000754s ]
+
+[ 2018-02-10T20:16:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+
+[ 2018-02-10T20:16:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001125s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0108s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0277s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0186s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001818s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002076s ]
+
+[ 2018-02-10T20:16:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001518s ]
+
+[ 2018-02-10T20:16:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0114s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0100s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001469s ]
+
+[ 2018-02-10T20:16:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2018-02-10T20:16:35+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+
+[ 2018-02-10T20:16:36+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001449s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0138s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0134s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0133s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000746s ]
+
+[ 2018-02-10T20:17:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001605s ]
+
+[ 2018-02-10T20:17:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0147s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0124s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000518s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2018-02-10T20:17:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2018-02-10T20:17:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+
+[ 2018-02-10T20:17:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0144s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0152s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0130s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000799s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000960s ]
+
+[ 2018-02-10T20:17:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+
+[ 2018-02-10T20:17:16+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+
+[ 2018-02-10T20:17:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2018-02-10T20:17:25+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0155s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0302s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000587s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000751s ]
+
+[ 2018-02-10T20:17:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+
+[ 2018-02-10T20:17:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2018-02-10T20:17:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0118s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0083s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001955s ]
+
+[ 2018-02-10T20:18:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001319s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0141s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0191s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0081s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000937s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001197s ]
+
+[ 2018-02-10T20:18:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2018-02-10T20:18:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+
+[ 2018-02-10T20:18:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0064s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0116s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0105s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000797s ]
+
+[ 2018-02-10T20:18:16+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001730s ]
+
+[ 2018-02-10T20:18:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+
+[ 2018-02-10T20:18:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0150s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0134s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0134s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000770s ]
+
+[ 2018-02-10T20:18:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2018-02-10T20:18:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001541s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0153s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0143s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0174s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001362s ]
+
+[ 2018-02-10T20:18:52+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2018-02-10T20:18:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2018-02-10T20:18:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+
+[ 2018-02-10T20:19:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001209s ]
+
+[ 2018-02-10T20:19:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000878s ]
+
+[ 2018-02-10T20:19:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0136s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0218s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0142s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002067s ]
+
+[ 2018-02-10T20:19:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2018-02-10T20:19:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+
+[ 2018-02-10T20:19:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+
+[ 2018-02-10T20:19:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001223s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0233s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0026s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000650s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000814s ]
+
+[ 2018-02-10T20:20:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2018-02-10T20:20:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0102s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0117s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000921s ]
+
+[ 2018-02-10T20:20:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2018-02-10T20:20:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0065s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0125s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000516s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2018-02-10T20:20:25+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+
+[ 2018-02-10T20:20:27+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+
+[ 2018-02-10T20:20:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2018-02-10T20:20:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002065s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0106s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0117s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 24 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0136s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '24'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000709s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000878s ]
+
+[ 2018-02-10T20:20:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2018-02-10T20:20:35+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+
+[ 2018-02-10T20:22:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2018-02-10T20:42:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/23.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+
+[ 2018-02-10T20:42:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0211s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 23 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0350s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '23'  [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000802s ]
+
+[ 2018-02-10T20:42:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/23.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2018-02-10T20:42:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2018-02-10T20:58:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/23.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2018-02-10T20:58:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+SQL: SHOW COLUMNS FROM `tp_manager` [ RunTime:0.0125s ]
+SQL: SELECT r.role_auth_ac FROM tp_manager m INNER JOIN tp_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `tp_goods` WHERE `goods_id` = 23 LIMIT 1   [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `tp_goods_attr` [ RunTime:0.0085s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM tp_goods_attr g INNER JOIN tp_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '23'  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000864s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001033s ]
+
+[ 2018-02-10T20:58:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/23.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2018-02-10T20:58:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+

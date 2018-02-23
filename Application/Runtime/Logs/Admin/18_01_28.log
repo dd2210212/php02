@@ -1,0 +1,943 @@
+[ 2018-01-28T11:37:19+08:00 ] 127.0.0.1 /index.php/admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020313s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020466s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2018-01-28T11:37:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000240s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000358s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018297s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000753s ]
+
+[ 2018-01-28T11:37:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000243s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000440s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012788s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012976s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000959s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001821s ]
+
+[ 2018-01-28T11:37:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000189s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000475s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010144s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010339s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000668s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000838s ]
+
+[ 2018-01-28T11:37:38+08:00 ] 127.0.0.1 /index.php/Admin/goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0693s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0031s ]
+SQL: SELECT * FROM `tp_goods` WHERE `is_del` = 'no' ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000324s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000864s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038405s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001230s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001748s ]
+
+[ 2018-01-28T11:37:40+08:00 ] 127.0.0.1 /index.php/Admin/goods/delGoods.html?goods_id=82
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0081s ]
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 105 行.
+SQL: SELECT `goods_big_logo`,`goods_small_logo` FROM `tp_goods` WHERE `goods_id` = 82 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] unlink(./Public/Uploads/2018-01-27/5a6c65f8d49ff.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 109 行.
+NOTIC: [2] unlink(./Public/Uploads/2018-01-27/small_5a6c65f8d49ff.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 110 行.
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 119 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [2] finfo_file(): Empty filename or path D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [8] Undefined index: error D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+ERR: 不存在的图像文件
+
+[ 2018-01-28T11:37:46+08:00 ] 127.0.0.1 /index.php/Admin/goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001500s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0115s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tp_goods` WHERE `is_del` = 'no' ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000306s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015547s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015666s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000688s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000718s ]
+
+[ 2018-01-28T11:37:49+08:00 ] 127.0.0.1 /index.php/Admin/goods/delGoods.html?goods_id=82
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000458s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0097s ]
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 105 行.
+SQL: SELECT `goods_big_logo`,`goods_small_logo` FROM `tp_goods` WHERE `goods_id` = 82 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] unlink(./Public/Uploads/2018-01-27/5a6c65f8d49ff.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 109 行.
+NOTIC: [2] unlink(./Public/Uploads/2018-01-27/small_5a6c65f8d49ff.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 110 行.
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 119 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [2] finfo_file(): Empty filename or path D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [8] Undefined index: error D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+ERR: 不存在的图像文件
+
+[ 2018-01-28T11:39:31+08:00 ] 127.0.0.1 /index.php/Admin/goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0085s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tp_goods` WHERE `is_del` = 'no' ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009523s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009656s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000867s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000518s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2018-01-28T11:39:35+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delGoods.html?goods_id=82
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0088s ]
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 105 行.
+SQL: SELECT `goods_big_logo`,`goods_small_logo` FROM `tp_goods` WHERE `goods_id` = 82 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] unlink(./Public/Uploads/2018-01-27/5a6c65f8d49ff.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 109 行.
+NOTIC: [2] unlink(./Public/Uploads/2018-01-27/small_5a6c65f8d49ff.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 110 行.
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 119 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [2] finfo_file(): Empty filename or path D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [8] Undefined index: error D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+ERR: 不存在的图像文件
+
+[ 2018-01-28T11:40:10+08:00 ] 127.0.0.1 /index.php/Admin/goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tp_goods` WHERE `is_del` = 'no' ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009723s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009921s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000430s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000518s ]
+
+[ 2018-01-28T11:40:43+08:00 ] 127.0.0.1 /index.php/Admin/goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0093s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tp_goods` WHERE `is_del` = 'no' ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000256s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011245s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011407s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000532s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000640s ]
+
+[ 2018-01-28T11:40:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delGoods.html?goods_id=82
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001534s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0114s ]
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 105 行.
+SQL: SELECT `goods_big_logo`,`goods_small_logo` FROM `tp_goods` WHERE `goods_id` = 82 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] unlink(./Public/Uploads/2018-01-27/5a6c65f8d49ff.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 109 行.
+NOTIC: [2] unlink(./Public/Uploads/2018-01-27/small_5a6c65f8d49ff.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 110 行.
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 119 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [2] finfo_file(): Empty filename or path D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [8] Undefined index: error D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+ERR: 不存在的图像文件
+
+[ 2018-01-28T11:42:58+08:00 ] 127.0.0.1 /index.php/Admin/goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0101s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tp_goods` WHERE `is_del` = 'no' ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009983s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000545s ]
+
+[ 2018-01-28T11:43:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delGoods.html?goods_id=72
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0085s ]
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 105 行.
+SQL: SELECT `goods_big_logo`,`goods_small_logo` FROM `tp_goods` WHERE `goods_id` = 72 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [2] unlink(./Public/Uploads/2018-01-27/5a6c62dc4ee08.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 109 行.
+NOTIC: [2] unlink(./Public/Uploads/2018-01-27/small_5a6c62dc4ee08.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 110 行.
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 119 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [2] finfo_file(): Empty filename or path D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [8] Undefined index: error D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+ERR: 不存在的图像文件
+
+[ 2018-01-28T11:43:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delGoods.html?goods_id=72
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0068s ]
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 105 行.
+SQL: SELECT `goods_big_logo`,`goods_small_logo` FROM `tp_goods` WHERE `goods_id` = 72 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] unlink(./Public/Uploads/2018-01-27/5a6c62dc4ee08.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 109 行.
+NOTIC: [2] unlink(./Public/Uploads/2018-01-27/small_5a6c62dc4ee08.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 110 行.
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 119 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [2] finfo_file(): Empty filename or path D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [8] Undefined index: error D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+ERR: 不存在的图像文件
+
+[ 2018-01-28T11:45:19+08:00 ] 127.0.0.1 /index.php/Admin/goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0114s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tp_goods` WHERE `is_del` = 'no' ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000363s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010884s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010997s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000560s ]
+
+[ 2018-01-28T11:45:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delGoods.html?goods_id=72
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001292s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0097s ]
+SQL: DELETE FROM `tp_goods` WHERE `goods_id` = 72 [ RunTime:0.1192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000629s ]
+
+[ 2018-01-28T11:45:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delGoods.html?goods_id=78
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000782s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0101s ]
+SQL: DELETE FROM `tp_goods` WHERE `goods_id` = 78 [ RunTime:0.1108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000536s ]
+
+[ 2018-01-28T11:45:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delGoods.html?goods_id=82
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0088s ]
+SQL: DELETE FROM `tp_goods` WHERE `goods_id` = 82 [ RunTime:0.0307s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+
+[ 2018-01-28T11:45:36+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000468s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0087s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000264s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006865s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007024s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000549s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000720s ]
+
+[ 2018-01-28T11:45:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001202s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0092s ]
+NOTIC: [8] Undefined index: validate D:\php02\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\php02\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `tp_goods` (`goods_name`,`goods_price`,`goods_introduce`,`goods_weight`,`add_time`,`upd_time`,`goods_big_logo`,`goods_small_logo`) VALUES ('123','123','','0','0','0','./Public/Uploads/2018-01-28/5a6d47683af9d.jpg','./Public/Uploads/2018-01-28/small_5a6d47683af9d.jpg') [ RunTime:0.0601s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `tp_goods_pics` [ RunTime:0.0318s ]
+SQL: INSERT INTO `tp_goods_pics` (`goods_id`,`pics_big`,`pics_small`) VALUES ('83','./Public/Pics/2018-01-28/5a6d47686e481.jpg','./Public/Pics/2018-01-28/small_5a6d47686e481.jpg') [ RunTime:0.0383s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019818s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019933s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000592s ]
+
+[ 2018-01-28T11:45:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001370s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0083s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tp_goods` WHERE `is_del` = 'no' ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009047s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009161s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000666s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000775s ]
+
+[ 2018-01-28T11:45:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delGoods.html?goods_id=83
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001778s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0085s ]
+SQL: DELETE FROM `tp_goods` WHERE `goods_id` = 83 [ RunTime:0.0356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001094s ]
+
+[ 2018-01-28T11:46:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0099s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007895s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008037s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000838s ]
+
+[ 2018-01-28T11:46:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0068s ]
+NOTIC: [8] Undefined index: validate D:\php02\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\php02\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `tp_goods` (`goods_name`,`goods_price`,`goods_introduce`,`goods_weight`,`add_time`,`upd_time`,`goods_big_logo`,`goods_small_logo`) VALUES ('434','432432','','0','0','0','./Public/Uploads/2018-01-28/5a6d47b0d1d5e.jpg','./Public/Uploads/2018-01-28/small_5a6d47b0d1d5e.jpg') [ RunTime:0.0473s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `tp_goods_pics` [ RunTime:0.0083s ]
+SQL: INSERT INTO `tp_goods_pics` (`goods_id`,`pics_big`,`pics_small`) VALUES ('84','./Public/Pics/2018-01-28/5a6d47b0f05f6.jpg','./Public/Pics/2018-01-28/small_5a6d47b0f05f6.jpg') [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006246s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006354s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000592s ]
+
+[ 2018-01-28T11:46:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0087s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tp_goods` WHERE `is_del` = 'no' ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009735s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009861s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000768s ]
+
+[ 2018-01-28T11:47:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delGoods.html?goods_id=84
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001491s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0062s ]
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 105 行.
+SQL: SELECT `goods_big_logo`,`goods_small_logo` FROM `tp_goods` WHERE `goods_id` = 84 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 119 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [2] finfo_file(): Empty filename or path D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [8] Undefined index: error D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+ERR: 不存在的图像文件
+
+[ 2018-01-28T11:48:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001011s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0106s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tp_goods` WHERE `is_del` = 'no' ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010153s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000660s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000978s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001121s ]
+
+[ 2018-01-28T11:48:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delGoods.html?goods_id=84
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0129s ]
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 105 行.
+SQL: SELECT `goods_big_logo`,`goods_small_logo` FROM `tp_goods` WHERE `goods_id` = 84 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] unlink(./Public/Uploads/2018-01-28/5a6d47b0d1d5e.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 109 行.
+NOTIC: [2] unlink(./Public/Uploads/2018-01-28/small_5a6d47b0d1d5e.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 110 行.
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 119 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [2] finfo_file(): Empty filename or path D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [8] Undefined index: error D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+ERR: 不存在的图像文件
+
+[ 2018-01-28T11:50:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0110s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `tp_goods` WHERE `is_del` = 'no' ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000247s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008698s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008824s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2018-01-28T11:50:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delGoods.html?goods_id=84
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0103s ]
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 105 行.
+NOTIC: [8] Undefined index: goods_id D:\php02\Application\Admin\Model\GoodsModel.class.php 第 107 行.
+SQL: SELECT `goods_big_logo`,`goods_small_logo` FROM `tp_goods` LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] unlink(./Public/Uploads/2018-01-28/5a6d47b0d1d5e.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 109 行.
+NOTIC: [2] unlink(./Public/Uploads/2018-01-28/small_5a6d47b0d1d5e.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 110 行.
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 119 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [2] finfo_file(): Empty filename or path D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [8] Undefined index: error D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+ERR: 不存在的图像文件
+
+[ 2018-01-28T11:50:37+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delGoods.html?goods_id=84
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0091s ]
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 105 行.
+NOTIC: [8] Undefined index: goods_id D:\php02\Application\Admin\Model\GoodsModel.class.php 第 107 行.
+SQL: SELECT `goods_big_logo`,`goods_small_logo` FROM `tp_goods` LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] unlink(./Public/Uploads/2018-01-28/5a6d47b0d1d5e.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 109 行.
+NOTIC: [2] unlink(./Public/Uploads/2018-01-28/small_5a6d47b0d1d5e.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 110 行.
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 119 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [2] finfo_file(): Empty filename or path D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [8] Undefined index: error D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+ERR: 不存在的图像文件
+
+[ 2018-01-28T11:51:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002652s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0099s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tp_goods` WHERE `is_del` = 'no' ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008128s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008230s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001074s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001163s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001428s ]
+
+[ 2018-01-28T11:51:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delGoods.html?goods_id=84
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001142s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0098s ]
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 105 行.
+NOTIC: [8] Undefined index: goods_id D:\php02\Application\Admin\Model\GoodsModel.class.php 第 107 行.
+SQL: SELECT `goods_big_logo`,`goods_small_logo` FROM `tp_goods` LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [2] unlink(./Public/Uploads/2018-01-28/5a6d47b0d1d5e.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 109 行.
+NOTIC: [2] unlink(./Public/Uploads/2018-01-28/small_5a6d47b0d1d5e.jpg): No such file or directory D:\php02\Application\Admin\Model\GoodsModel.class.php 第 110 行.
+NOTIC: [8] Undefined index: goods_logo_upd D:\php02\Application\Admin\Model\GoodsModel.class.php 第 119 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [2] finfo_file(): Empty filename or path D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+NOTIC: [8] Undefined index: error D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+ERR: 不存在的图像文件
+
+[ 2018-01-28T11:52:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0086s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tp_goods` WHERE `is_del` = 'no' ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008395s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008503s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000543s ]
+
+[ 2018-01-28T11:52:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delGoods.html?goods_id=84
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0101s ]
+SQL: DELETE FROM `tp_goods` WHERE `goods_id` = 84 [ RunTime:0.0592s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000742s ]
+
+[ 2018-01-28T11:56:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001564s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0098s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tp_goods` WHERE `is_del` = 'no' ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000317s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009736s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000550s ]
+
+[ 2018-01-28T11:56:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0084s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tp_goods` WHERE `is_del` = 'no' ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000234s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009071s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009175s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000535s ]
+
+[ 2018-01-28T11:56:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0055s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tp_goods` WHERE `is_del` = 'no' ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007807s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007915s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000536s ]
+
+[ 2018-01-28T11:56:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tp_goods` WHERE `is_del` = 'no' ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010144s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010247s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000581s ]
+
+[ 2018-01-28T12:00:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001025s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0116s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tp_goods` ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000257s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008372s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008484s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000546s ]
+
+[ 2018-01-28T12:00:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0087s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000202s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007066s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007186s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000584s ]
+
+[ 2018-01-28T12:00:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0057s ]
+NOTIC: [8] Undefined index: validate D:\php02\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\php02\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `tp_goods` (`goods_name`,`goods_price`,`goods_introduce`,`goods_weight`,`add_time`,`upd_time`,`goods_big_logo`,`goods_small_logo`) VALUES ('fdsfds','fdsfds','','0','0','0','./Public/Uploads/2018-01-28/5a6d4ac854365.jpg','./Public/Uploads/2018-01-28/small_5a6d4ac854365.jpg') [ RunTime:0.0711s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\php02\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `tp_goods_pics` [ RunTime:0.0087s ]
+SQL: INSERT INTO `tp_goods_pics` (`goods_id`,`pics_big`,`pics_small`) VALUES ('85','./Public/Pics/2018-01-28/5a6d4ac86cc67.jpg','./Public/Pics/2018-01-28/small_5a6d4ac86cc67.jpg') [ RunTime:0.0110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006402s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006534s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000509s ]
+
+[ 2018-01-28T12:00:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0071s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tp_goods` ORDER BY goods_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000224s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011169s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011307s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000717s ]
+
+[ 2018-01-28T12:00:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delGoods.html?goods_id=85
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001797s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0098s ]
+SQL: DELETE FROM `tp_goods` WHERE `goods_id` = 85 [ RunTime:0.0534s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001008s ]
+

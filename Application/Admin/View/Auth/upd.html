@@ -1,0 +1,33 @@
+
+    <form action="__SELF__" method="post" enctype="multipart/form-data">
+        <!--<input type="hidden" name='goods_id' value="{$info.goods_id}" />-->
+        <table border="1" width="100%" class="table_a" id="general-tab-tb">
+
+            <tr>
+                <td>名称：</td>
+                <td><input type="text" name="auth_name"  value="{$info.auth_name}"/></td>
+            </tr>
+            <tr>
+                <td>上级id：</td>
+                <td><input type="text" name="auth_id"  value="{$info.auth_id}"/></td>
+            </tr>
+            <tr>
+                <td>控制器名称：</td>
+                <td><input type="text" name="auth_c"  value="{$info.auth_c}"/></td>
+            </tr>
+            <tr>
+                <td>操作方法：</td>
+                <td><input type="text" name="auth_a"  value="{$info.auth_a}"/></td>
+            </tr>
+
+
+        </table>
+        <table width="100%">
+            <tr>
+                <td colspan="2" align="center">
+                    <input type="submit" value="修改" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>

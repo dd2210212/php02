@@ -1,0 +1,39 @@
+<div style="font-size: 13px; margin: 10px 5px;">
+    <table class="table_a" border="1" width="100%">
+        <tbody><tr style="font-weight: bold;">
+            <td>序号</td>
+            <td>名称</td>
+            <td>登记时间</td>
+            <td>角色</td>
+            <td align="center" colspan='2'>操作</td>
+        </tr>
+        <foreach name='info' item='v'>
+            <tr id="product_{$v.mg_id}">
+                <td>{$v.mg_id}</td>
+                <td>{$v.mg_name}</td>
+                <td>{$v.add_time|date="Y-m-d H:i:s",###}</td>
+                <td>{$v.role_name}</td>
+                <td><a href="{:U('upd',array('mg_id'=>$v['mg_id']))}" >修改</a></td>
+                <td><a href="javascript:;" onclick="if(confirm('确认要删除该角色么？')){del({$v.mg_id})}">删除</a></td>
+            </tr>
+        </foreach>
+        <script type="text/javascript">
+            function del(mg_id){
+                //利用ajax去服务器删除数据库记录信息
+                $.ajax({
+                    url:"{:U('del')}",
+                    data:{'mg_id':mg_id},
+                    dataType:'json',
+                    type:'get',
+                    success:function(msg){
+                        if(msg.status==1){
+                            $('#product_'+mg_id).remove();
+                        }
+                    }
+                });
+            }
+        </script>
+        </tbody>
+    </table>
+
+</div>

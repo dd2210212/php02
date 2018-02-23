@@ -1,0 +1,54 @@
+<div style="font-size: 13px; margin: 10px 5px;">
+    <table class="table_a" border="1" width="100%">
+        <tbody><tr style="font-weight: bold;">
+            <td>序号</td><td>名称</td>
+            <td>上级id</td>
+            <td>控制其名称</td>
+            <td>操作方法</td>
+            <td>全路径</td>
+            <td>等级</td>
+            <td align="center" colspan='2'>操作</td>
+        </tr>
+        <foreach name='info' item='v'>
+            <tr id="product_{$v.auth_id}">
+                <td>{$v.auth_id}</td>
+                <td>{:str_repeat('--/',$v['auth_level'])}{$v.auth_name}</td>
+                <td>{$v.auth_pid}</td>
+                <td>{$v.auth_c}</td>
+                <td>{$v.auth_a}</td>
+                <td>{$v.auth_path}</td>
+                <td>{$v.auth_level}</td>
+
+
+                <td><a href="{:U('upd',array('auth_id'=>$v['auth_id']))}" >修改</a></td>
+                <td><a href="javascript:;" onclick="if(confirm('确认要删除该商品么？')){del({$v.auth_id})}">删除</a></td>
+            </tr>
+        </foreach>
+        <script type="text/javascript">
+            function del(auth_id){
+                //利用ajax去服务器删除数据库记录信息
+                $.ajax({
+                    url:"{:U('del')}",
+                    data:{'auth_id':auth_id},
+                    dataType:'json',
+                    type:'get',
+                    success:function(msg){
+                        if(msg.status==1){
+                            $('#product_'+auth_id).remove();
+                        }
+                    }
+                });
+            }
+        </script>
+        </tbody>
+    </table>
+</div>
+
+<tr>
+                        <td colspan="20" style="text-align: center;">
+                            {$pagelist}
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>

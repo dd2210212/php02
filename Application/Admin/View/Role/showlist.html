@@ -1,0 +1,47 @@
+<div style="font-size: 13px; margin: 10px 5px;">
+    <table class="table_a" border="1" width="100%">
+        <tbody><tr style="font-weight: bold;">
+            <td>序号</td><td>名称</td>
+            <td>权限ids</td>
+            <td align="center" colspan='3'>操作</td>
+        </tr>
+        <foreach name='info' item='v'>
+            <tr id="product_{$v.role_id}">
+                <td>{$v.role_id}</td>
+                <td><a href="#">{$v.role_name}</a></td>
+                <td>{$v.role_auth_ids}</td>
+
+                <td><a href="{:U('distribute',array('role_id'=>$v['role_id']))}" >分配权限</a></td>
+
+                <td><a href="{:U('upd',array('role_id'=>$v['role_id']))}" >修改</a></td>
+                <td><a href="javascript:;" onclick="if(confirm('确认要删除该商品么？')){del_role({$v.role_id})}">删除</a></td>
+            </tr>
+        </foreach>
+        <script type="text/javascript">
+            function del_role(role_id){
+                //利用ajax去服务器删除数据库记录信息
+                $.ajax({
+                    url:"{:U('del')}",
+                    data:{'role_id':role_id},
+                    dataType:'json',
+                    type:'get',
+                    success:function(msg){
+                        if(msg.status==1){
+                            $('#product_'+role_id).remove();
+                        }
+                    }
+                });
+            }
+        </script>
+        </tbody>
+    </table>
+</div>
+
+<tr>
+                        <td colspan="20" style="text-align: center;">
+                            {$pagelist}
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
